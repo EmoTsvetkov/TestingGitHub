@@ -4,7 +4,8 @@ name: "Emo"
   age:20
 }
 
+//My new dog
 let dog={
-  name: "My new dog",
+  name: "Rex",
   age: 1
 }
